@@ -2,7 +2,7 @@
 
 ![CarRobot](https://github.com/Raafat-Nagy/CarRobot/assets/105138072/ed387518-0666-4e62-9a6a-145edd384f21)
 
-## Overview
+## Overview 
 
 Welcome to the CarRobot Tinkercad Simulation repository! This project offers a simulated environment for a car robot equipped with an ultrasonic sensor for obstacle detection and precise motor control.
 
