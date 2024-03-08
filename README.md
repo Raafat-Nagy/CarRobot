@@ -12,12 +12,11 @@ Explore the interactive [Tinkercad simulation](https://www.tinkercad.com/things/
 - **CarRobot in Action:** Watch the comprehensive [video demonstration](https://github.com/Raafat-Nagy/CarRobot/raw/main/Tinkercad_Simulation/CarRobot_TinkercadSimulation%20.mp4) for a dynamic showcase of the robot's capabilities, behavior, and responses.
 
 - **Hardware Videos:**
-  - [**Hardware Video 1:**](https://github.com/Raafat-Nagy/CarRobot/blob/main/CarRobot_Videos/CarRobot_Video1.mp4)
-    
-  - [**Hardware Video 2:**](https://github.com/Raafat-Nagy/CarRobot/blob/main/CarRobot_Videos/CarRobot_Video2.mp4)
+  - [**Hardware Video:**](https://github.com/Raafat-Nagy/CarRobot/blob/main/CarRobot_Videos/CarRobot_Video2.mp4)
 
-## Team Members 
+## Team Members
 
+- [Raafat Nagy](https://github.com/Raafat-Nagy)
 - [Ayman Ezzeldin](https://github.com/ayman-ezzeldin)
 - [Ehab Magdyy](https://github.com/EhabMagdyy) 
 
